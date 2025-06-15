@@ -1,0 +1,29 @@
+{
+  "name": "react-projects",
+  "version": "1.0.0",
+  "description": "This repository contains small projects and exercises I built to practice and learn React.js.",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "projects/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusKSantiago/React-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MatheusKSantiago/React-Projects/issues"
+  },
+  "homepage": "https://github.com/MatheusKSantiago/React-Projects#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
